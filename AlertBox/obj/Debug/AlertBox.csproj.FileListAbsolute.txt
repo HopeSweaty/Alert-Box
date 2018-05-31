@@ -12,3 +12,15 @@ C:\Users\Hope\Desktop\Beautiful-Winform-Notifications---winforms-master\AlertBox
 C:\Users\Hope\Desktop\Beautiful-Winform-Notifications---winforms-master\AlertBox\obj\Debug\AlertBox.csproj.CopyComplete
 C:\Users\Hope\Desktop\Beautiful-Winform-Notifications---winforms-master\AlertBox\obj\Debug\custom_alert_notifications.exe
 C:\Users\Hope\Desktop\Beautiful-Winform-Notifications---winforms-master\AlertBox\obj\Debug\custom_alert_notifications.pdb
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\bin\Debug\custom_alert_notifications.exe.config
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\bin\Debug\custom_alert_notifications.exe
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\bin\Debug\custom_alert_notifications.pdb
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\AlertBox.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\custom_alert_notifications.alert.resources
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\custom_alert_notifications.Form1.resources
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\custom_alert_notifications.Properties.Resources.resources
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\AlertBox.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\AlertBox.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\AlertBox.csproj.CopyComplete
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\custom_alert_notifications.exe
+C:\Users\Hope\Documents\GitHub\Alert-Box\AlertBox\obj\Debug\custom_alert_notifications.pdb
